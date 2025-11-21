@@ -52,4 +52,5 @@ Feel free to submit issues or pull requests! Suggestions for new features or imp
 ## License
 
 This project is licensed under the MIT License.
+<img width="603" height="626" alt="image" src="https://github.com/user-attachments/assets/e30ade85-669f-439e-889e-47fe739a7db7" />
 
