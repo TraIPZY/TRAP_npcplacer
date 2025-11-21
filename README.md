@@ -1,9 +1,8 @@
 
 
-# Static NPC Spawner
+Static NPC Spawner
 
-A simple and lightweight script to place **static NPCs** on your FiveM server map. Perfect for adding life and immersion to your world with minimal setup.
-
+A simple and lightweight script to place static NPCs on your FiveM server map. Preconfigured to easily add NPCs in all Binco stores, making your world feel more alive and immersive.
 ## Features
 
 * Spawn static NPCs anywhere on the map
