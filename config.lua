@@ -3,8 +3,6 @@ Config = {}
 
 -- Example peds positions using vector3
 Config.Peds = {
-{model = 'a_m_y_vinewood_03', pos = vector3(170.0280, -1799.5521, 28.3159), h = 315.0, freeze = true},--locksmith
-{model = 's_m_y_cop_01', pos = vector3(467.0237, -980.4771, 25.0922), h = 360.0, freeze = true},--police
 {model = 'cs_natalia', pos = vector3(78.0437, -1387.6705, 28.3761), h = 180.0, freeze = true},--Binco1
 {model = 'cs_natalia', pos = vector3(126.9513, -224.2391, 53.5578), h = 75.0, freeze = true},--Binco2
 {model = 'cs_natalia', pos = vector3(422.8931, -811.5412, 28.4911), h = 360.0, freeze = true},--Binco3
